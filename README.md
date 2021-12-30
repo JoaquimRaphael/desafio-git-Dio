@@ -1,2 +1,2 @@
 # desafio-git-Dio
-primeiro projeto git botcamp amdocs
+repositório deoprimeiro projeto git botcamp amdocs
